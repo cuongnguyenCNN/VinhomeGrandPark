@@ -1,50 +1,56 @@
- 
 <!doctype html>
 <html style="background: #fff;">
 
 <!-- Mirrored from vinhomegrand-park.com/dang-ky-nhan-thong-tin/ by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 26 Jun 2025 00:47:26 GMT -->
-<!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=UTF-8" /><!-- /Added by HTTrack -->
+<!-- Added by HTTrack -->
+<meta http-equiv="content-type" content="text/html;charset=UTF-8" /><!-- /Added by HTTrack -->
+
 <head>
-<meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
-<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-<title>Đăng ký nhận thông tin</title>
-<link rel="stylesheet" type="text/css" href="../templates/css.css">
-<script src="../scripts/jquery.js"></script>
-<script>
-	$(document).ready(function(e) {
-		$(".click_gui").click(function(e) {
-        	$(".fancybox-overlay").hide();
-    	});
-    });
-</script>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <title>Đăng ký nhận thông tin</title>
+    <link rel="stylesheet" type="text/css" href="../templates/css.css">
+    <script src="../scripts/jquery.js"></script>
+    <script>
+        $(document).ready(function (e) {
+            $(".click_gui").click(function (e) {
+                $(".fancybox-overlay").hide();
+            });
+        });
+    </script>
 </head>
+
 <body>
-	<form method="post" enctype="multipart/form-data">
-    	<div class="t_dktt">Đăng ký nhận thông tin & bảng giá dự án</div>
+    <form method="post" enctype="multipart/form-data" action="./../guimail2.php">
+        <div class="t_dktt">Đăng ký nhận thông tin & bảng giá dự án</div>
         <ul class="ul_dktt">
-        	<li>
-            	<input autocomplete="off" class="ipt_dktt box-sizing-fix" type="text" placeholder="Họ tên (*)" name="ten1" value="" required="required">
+            <li>
+                <input autocomplete="off" class="ipt_dktt box-sizing-fix" type="text" placeholder="Họ tên (*)"
+                    name="ten1" value="" required="required">
             </li>
             <li>
-            	<input autocomplete="off" class="ipt_dktt box-sizing-fix" type="text" placeholder="Điện thoại (*)" name="dienthoai1" value="" required="required">
+                <input autocomplete="off" class="ipt_dktt box-sizing-fix" type="text" placeholder="Điện thoại (*)"
+                    name="dienthoai1" value="" required="required">
             </li>
-             <li>
-            	<input autocomplete="off" class="ipt_dktt box-sizing-fix" type="text" placeholder="Email" name="email1" value="">
+            <li>
+                <input autocomplete="off" class="ipt_dktt box-sizing-fix" type="text" placeholder="Email" name="email1"
+                    value="">
             </li>
-            <li style="width:100%; position:relative;">
+            <!-- <li style="width:100%; position:relative;">
                 <input class="ipt_dktt box-sizing-fix" placeholder="Mã bảo mật" name="capcha1" value="" title="Mã bảo mật (*)" required="required">
                 <img src="../scripts/capcha/dongian.jpg" align="absmiddle" style="width:auto; height:33px; position:absolute; right:0px; bottom:0px;"/>
+            </li> -->
+            <li>
+                <textarea class="txt_dktt box-sizing-fix" placeholder="Nội dung" name="noidung1"></textarea>
             </li>
             <li>
-            	<textarea class="txt_dktt box-sizing-fix" placeholder="Nội dung" name="noidung1"></textarea>
-            </li>
-                        <li>
-            	<input class="btn_dktt click_gui" type="submit" value="Gửi ngay" name="guimail2">
+                <input class="btn_dktt" type="submit" value="Gửi ngay" name="guimail2">
             </li>
         </ul>
     </form>
 </body>
 
 <!-- Mirrored from vinhomegrand-park.com/dang-ky-nhan-thong-tin/ by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 26 Jun 2025 00:47:26 GMT -->
+
 </html>
