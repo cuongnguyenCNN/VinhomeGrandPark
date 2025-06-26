@@ -1,0 +1,52 @@
+HTTrack3.49-2+htsswf+htsjava launched on Thu, 26 Jun 2025 07:46:44 at https://vinhomegrand-park.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://vinhomegrand-park.com/ -O1 "E:\Projects\VinhomeGrandPark" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+07:47:26	Error: 	"Not Found" (404) at link https://vinhomegrand-park.com/imgs/layout/bg_hotline.png (from https://vinhomegrand-park.com/)
+07:47:38	Warning: 	Found for https://vinhomegrand-park.com/thu-vien/
+07:47:38	Warning: 	File has moved from https://vinhomegrand-park.com/thu-vien/ to https://vinhomegrand-park.com
+07:47:42	Error: 	"Not Found" (404) at link https://vinhomegrand-park.com/the-opus-one/uploads/version/logo-cty-ico-20250530193734rBEMIlvHnw.ico (from https://vinhomegrand-park.com/the-opus-one/)
+07:47:42	Error: 	"Not Found" (404) at link https://vinhomegrand-park.com/thong-tin-the-opus-one/uploads/version/logo-cty-ico-20250530193734rBEMIlvHnw.ico (from https://vinhomegrand-park.com/thong-tin-the-opus-one/)
+07:47:42	Warning: 	Found for https://vinhomegrand-park.com/mat-bang-os1/
+07:47:42	Warning: 	File has moved from https://vinhomegrand-park.com/mat-bang-os1/ to https://vinhomegrand-park.com
+07:47:42	Warning: 	Found for https://vinhomegrand-park.com/mat-bang-os5/
+07:47:42	Warning: 	File has moved from https://vinhomegrand-park.com/mat-bang-os5/ to https://vinhomegrand-park.com
+07:47:42	Error: 	"Not Found" (404) at link https://vinhomegrand-park.com/mat-bang-toa-os1/uploads/version/logo-cty-ico-20250530193734rBEMIlvHnw.ico (from https://vinhomegrand-park.com/mat-bang-toa-os1/)
+07:47:42	Error: 	"Not Found" (404) at link https://vinhomegrand-park.com/mat-bang-toa-os5/uploads/version/logo-cty-ico-20250530193734rBEMIlvHnw.ico (from https://vinhomegrand-park.com/mat-bang-toa-os5/)
+07:47:42	Error: 	"Not Found" (404) at link https://vinhomegrand-park.com/gia-ban-can-ho-1pn/uploads/version/logo-cty-ico-20250530193734rBEMIlvHnw.ico (from https://vinhomegrand-park.com/gia-ban-can-ho-1pn/)
+07:47:42	Error: 	"Not Found" (404) at link https://vinhomegrand-park.com/the-beverly/uploads/version/logo-cty-ico-20250530193734rBEMIlvHnw.ico (from https://vinhomegrand-park.com/the-beverly/)
+07:47:42	Error: 	"Not Found" (404) at link https://vinhomegrand-park.com/the-origami/uploads/version/logo-cty-ico-20250530193734rBEMIlvHnw.ico (from https://vinhomegrand-park.com/the-origami/)
+07:47:42	Error: 	"Not Found" (404) at link https://vinhomegrand-park.com/tin-tuc/uploads/version/logo-cty-ico-20250530193734rBEMIlvHnw.ico (from https://vinhomegrand-park.com/tin-tuc/)
+07:47:42	Error: 	"Not Found" (404) at link https://vinhomegrand-park.com/lien-he/uploads/version/logo-cty-ico-20250530193734rBEMIlvHnw.ico (from https://vinhomegrand-park.com/lien-he/)
+07:47:42	Error: 	"Not Found" (404) at link https://vinhomegrand-park.com/cap-nhat-so-tai-khoan-du-an-vinhome-grand-park-bv16/uploads/version/logo-cty-ico-20250530193734rBEMIlvHnw.ico (from https://vinhomegrand-park.com/cap-nhat-so-tai-khoan-du-an-vinhome-grand-park-bv16/)
+07:47:42	Error: 	"Error when decompressing" (-1) at link https://vinhomegrand-park.com/tim-kiem/Cập/ (from https://vinhomegrand-park.com/cap-nhat-so-tai-khoan-du-an-vinhome-grand-park-bv16/)
+07:47:42	Error: 	"Error when decompressing" (-1) at link https://vinhomegrand-park.com/tim-kiem/nhật/ (from https://vinhomegrand-park.com/cap-nhat-so-tai-khoan-du-an-vinhome-grand-park-bv16/)
+07:47:42	Error: 	"Error when decompressing" (-1) at link https://vinhomegrand-park.com/tim-kiem/số/ (from https://vinhomegrand-park.com/cap-nhat-so-tai-khoan-du-an-vinhome-grand-park-bv16/)
+07:47:42	Error: 	"Error when decompressing" (-1) at link https://vinhomegrand-park.com/tim-kiem/tài/ (from https://vinhomegrand-park.com/cap-nhat-so-tai-khoan-du-an-vinhome-grand-park-bv16/)
+07:47:42	Error: 	"Error when decompressing" (-1) at link https://vinhomegrand-park.com/tim-kiem/khoản/ (from https://vinhomegrand-park.com/cap-nhat-so-tai-khoan-du-an-vinhome-grand-park-bv16/)
+07:47:42	Error: 	"Error when decompressing" (-1) at link https://vinhomegrand-park.com/tim-kiem/chủ/ (from https://vinhomegrand-park.com/cap-nhat-so-tai-khoan-du-an-vinhome-grand-park-bv16/)
+07:47:42	Error: 	"Error when decompressing" (-1) at link https://vinhomegrand-park.com/tim-kiem/đầu/ (from https://vinhomegrand-park.com/cap-nhat-so-tai-khoan-du-an-vinhome-grand-park-bv16/)
+07:47:42	Error: 	"Error when decompressing" (-1) at link https://vinhomegrand-park.com/tim-kiem/tư/ (from https://vinhomegrand-park.com/cap-nhat-so-tai-khoan-du-an-vinhome-grand-park-bv16/)
+07:47:42	Error: 	"Error when decompressing" (-1) at link https://vinhomegrand-park.com/tim-kiem/dự/ (from https://vinhomegrand-park.com/cap-nhat-so-tai-khoan-du-an-vinhome-grand-park-bv16/)
+07:47:42	Error: 	"Error when decompressing" (-1) at link https://vinhomegrand-park.com/tim-kiem/án/ (from https://vinhomegrand-park.com/cap-nhat-so-tai-khoan-du-an-vinhome-grand-park-bv16/)
+07:47:45	Error: 	"Not Found" (404) at link https://vinhomegrand-park.com/hinh-anh-thuc-te-tai-du-an-vinhome-grand-park-long-thanh-my-tp-thu-duc-tp-hcm-bv15/uploads/version/logo-cty-ico-20250530193734rBEMIlvHnw.ico (from https://vinhomegrand-park.com/hinh-anh-thuc-te-tai-du-an-vinhome-grand-park-long-thanh-my-tp-thu-duc-tp-hcm-bv15/)
+07:47:45	Error: 	"Error when decompressing" (-1) at link https://vinhomegrand-park.com/tim-kiem/Hình-ảnh-thực-tế-tại-dự-án-Vinhome-Grand-Park-Long-Thạnh-Mỹ/ (from https://vinhomegrand-park.com/hinh-anh-thuc-te-tai-du-an-vinhome-grand-park-long-thanh-my-tp-thu-duc-tp-hcm-bv15/)
+07:47:45	Error: 	"Error when decompressing" (-1) at link https://vinhomegrand-park.com/tim-kiem/TP-Thủ-Đức/ (from https://vinhomegrand-park.com/hinh-anh-thuc-te-tai-du-an-vinhome-grand-park-long-thanh-my-tp-thu-duc-tp-hcm-bv15/)
+07:47:46	Error: 	"Not Found" (404) at link https://vinhomegrand-park.com/tien-ich-du-an-vinhome-grand-park-dang-cap-song-tai-dai-do-thi-thong-minh-bv14/uploads/version/logo-cty-ico-20250530193734rBEMIlvHnw.ico (from https://vinhomegrand-park.com/tien-ich-du-an-vinhome-grand-park-dang-cap-song-tai-dai-do-thi-thong-minh-bv14/)
+07:47:46	Error: 	"Error when decompressing" (-1) at link https://vinhomegrand-park.com/tim-kiem/Tiện/ (from https://vinhomegrand-park.com/tien-ich-du-an-vinhome-grand-park-dang-cap-song-tai-dai-do-thi-thong-minh-bv14/)
+07:47:46	Error: 	"Error when decompressing" (-1) at link https://vinhomegrand-park.com/tim-kiem/ích/ (from https://vinhomegrand-park.com/tien-ich-du-an-vinhome-grand-park-dang-cap-song-tai-dai-do-thi-thong-minh-bv14/)
+07:47:46	Error: 	"Not Found" (404) at link https://vinhomegrand-park.com/tim-kiem/Vinhome/uploads/version/logo-cty-ico-20250530193734rBEMIlvHnw.ico (from https://vinhomegrand-park.com/tim-kiem/Vinhome/)
+07:47:46	Warning: 	Retry after error -5 (Unable to get server's address: No such host is known. ) at link s7.addthis.com/js/300/addthis_widget.js (from https://vinhomegrand-park.com/tim-kiem/Vinhome/)
+07:47:46	Error: 	"Not Found" (404) at link https://vinhomegrand-park.com/tim-kiem/Grand/uploads/version/logo-cty-ico-20250530193734rBEMIlvHnw.ico (from https://vinhomegrand-park.com/tim-kiem/Grand/)
+07:47:46	Error: 	"Not Found" (404) at link https://vinhomegrand-park.com/tim-kiem/Park/uploads/version/logo-cty-ico-20250530193734rBEMIlvHnw.ico (from https://vinhomegrand-park.com/tim-kiem/Park/)
+07:47:46	Error: 	"Not Found" (404) at link https://vinhomegrand-park.com/tim-kiem/TP-HCM/uploads/version/logo-cty-ico-20250530193734rBEMIlvHnw.ico (from https://vinhomegrand-park.com/tim-kiem/TP-HCM/)
+07:47:46	Error: 	"Not Found" (404) at link https://vinhomegrand-park.com/tim-kiem/hinh-anh-thuc-te-tai-du-an-vinhome-grand-park-long-thanh-my-tp-thu-duc-tp-hcm/uploads/version/logo-cty-ico-20250530193734rBEMIlvHnw.ico (from https://vinhomegrand-park.com/tim-kiem/hinh-anh-thuc-te-tai-du-an-vinhome-grand-park-long-thanh-my-tp-thu-duc-tp-hcm/)
+07:47:46	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link s7.addthis.com/js/300/addthis_widget.js (from https://vinhomegrand-park.com/tim-kiem/Vinhome/)
+07:47:46	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link s7.addthis.com/js/300/addthis_widget.js (from https://vinhomegrand-park.com/tim-kiem/Vinhome/)
+
+HTTrack Website Copier/3.49-2 mirror complete in 1 minutes 2 seconds : 287 links scanned, 248 files written (61609331 bytes overall) [58102953 bytes received at 937144 bytes/sec], 5661450 bytes transferred using HTTP compression in 115 files, ratio 34%, 15.7 requests per connection
+(33 errors, 8 warnings, 0 messages)
