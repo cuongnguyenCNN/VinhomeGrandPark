@@ -114,33 +114,33 @@
                     <div class="fc_2">
                         <p class="p_fc_1">Vui lòng điền vào mẫu liên hệ, chúng tôi sớm liên hệ với bạn trong thời gian
                             sớm nhất.</p>
-                        <form method="post" enctype="multipart/form-data">
+                        <form method="post" enctype="multipart/form-data" action="./../guimail2.php">
                             <ul class="ul_ct">
                                 <li>
-                                    <input class="ipt_ct box-sizing-fix" type="text" placeholder="Họ tên (*)" name="ten"
-                                        value="" required="required">
+                                    <input class="ipt_ct box-sizing-fix" type="text" placeholder="Họ tên (*)"
+                                        name="ten1" value="" required="required">
                                 </li>
                                 <li>
                                     <input class="ipt_ct box-sizing-fix" type="text" placeholder="Điện thoại (*)"
-                                        name="dienthoai" value="" required="required">
+                                        name="dienthoai1" value="" required="required">
                                 </li>
                                 <li>
-                                    <input class="ipt_ct box-sizing-fix" type="text" placeholder="Email" name="email"
+                                    <input class="ipt_ct box-sizing-fix" type="text" placeholder="Email" name="email1"
                                         value="">
                                 </li>
-                                <li style="width:100%; position:relative;">
+                                <!-- <li style="width:100%; position:relative;">
                                     <input class="ipt_ct box-sizing-fix" placeholder="Mã bảo mật (*)" name="capcha"
                                         value="" title="Mã bảo mật" required="required">
                                     <img src="../scripts/capcha/dongian.jpg" align="absmiddle"
                                         style="width:auto; height:32px; position:absolute; right:0px; top:0px;" />
-                                </li>
+                                </li> -->
                                 <li style="width: 100%;">
                                     <textarea class="txt_ct box-sizing-fix" placeholder="Nội dung"
-                                        name="noidung"></textarea>
+                                        name="noidung1"></textarea>
                                 </li>
                             </ul>
                             <div style="text-align: right; padding-top: 10px;">
-                                <input class="btn_ct" type="submit" value="Gửi liên hệ" name="guimail">
+                                <input class="btn_ct" type="submit" value="Gửi liên hệ" name="guimail2">
                             </div>
                         </form>
                     </div><!-- End .fc_2 -->
@@ -209,7 +209,7 @@
                     </li>
                     <li>
                         <div class="t_foot">Đăng ký nhận bảng giá</div>
-                        <form method="post" enctype="multipart/form-data">
+                        <form method="post" enctype="multipart/form-data" action="./../guimail2.php">
                             <ol class="ol_form_dktt_foot clearfix">
                                 <li style="float:left; width:50%;">
                                     <input autocomplete="off" class="ipt_form_dktt_foot box-sizing-fix" type="text"
@@ -224,7 +224,7 @@
                                         placeholder="Nội dung" name="noidung1"></textarea>
                                 </li>
                                 <li style="float:left; width:100%;">
-                                    <input class="btn_form_dktt_foot" type="submit" value="Gửi ngay" name="guimail1">
+                                    <input class="btn_form_dktt_foot" type="submit" value="Gửi ngay" name="guimail2">
                                 </li>
                             </ol>
                         </form>

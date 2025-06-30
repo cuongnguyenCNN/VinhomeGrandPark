@@ -28,6 +28,7 @@ if (isset($_POST['guimail2'])) {
     $stmt->bind_param("ssss", $hoten, $dienthoai, $email, $noidung);
     $stmt->execute();
     $stmt->close();
+    echo "<script>alert('Gửi thành công! Chúng tôi sẽ liên lạc sớm'); window.history.back();</script>";
     // $mail = new PHPMailer(true);
     // try {
     //     // Cấu hình SMTP Gmail
